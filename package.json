@@ -1,0 +1,17 @@
+
+{
+"name": "jili777",
+"theme": "jili 777",
+"version": "10.7.1",
+"description": "jili 777 ทางเข้าเว็บไซต์สล็อตเว็บตรง ระบบออโต้ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"jili 777",
+"jili 777 เครดิตฟรี",
+"jili 777 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/jili777",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
